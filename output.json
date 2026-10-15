@@ -1,0 +1,11 @@
+[
+  {
+    "url": "https://example.com/",
+    "depth": 0,
+    "status": 200,
+    "title": "Example Domain",
+    "textSnippet": "Example Domain Example Domain This domain is for use in documentation examples without needing permission. Avoid use in operations. Learn more",
+    "linkCount": 1,
+    "crawledAt": "2026-05-13T03:03:34.979Z"
+  }
+]
